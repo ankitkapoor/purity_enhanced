@@ -1,4 +1,4 @@
 purity_enhanced
 ===============
 
-Purity + some selected mods
+Purity with few additional mods
